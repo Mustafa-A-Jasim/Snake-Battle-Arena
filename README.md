@@ -1,7 +1,8 @@
 ![image alt](https://github.com/Mustafa-A-Jasim/Snake-Battle-Arena/blob/b4522ab28afd422a98c8738cb7d45b107317d89f/Screenshot%204.jpeg)
+
 # Snake Battle Arena
 
-LAN multiplayer Snake with single‑player progression, bots, bonus food, and a modern HUD.
+Snake Battle Arena LAN multiplayer Snake with single‑player progression, bots, bonus food, and a modern HUD.
 
 ## Quick Start
 1. Install Python 3.10+.
