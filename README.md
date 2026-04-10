@@ -2,7 +2,7 @@
 
 # Snake Battle Arena
 
-Snake Battle Arena LAN multiplayer Snake with single‑player progression, bots, bonus food, and a modern HUD.
+(SnakeGame) Snake Battle Arena Game is a LAN multiplayer Snake with single‑player progression, bots, bonus food, and a modern HUD.
 
 ## Quick Start
 1. Install Python 3.10+.
