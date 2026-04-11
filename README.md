@@ -1,10 +1,19 @@
+## Installation (Windows Only)
+
+1. Download the **rar** file of the portable Windows version from this repository.
+2. Extract the ZIP file to any folder on your computer.
+3. Open the extracted folder.
+4. Run the **`.exe`** file.
+
+No Python installation is required for the portable Windows version.
+
 ![image alt](https://github.com/Mustafa-A-Jasim/Snake-Battle-Arena/blob/b4522ab28afd422a98c8738cb7d45b107317d89f/Screenshot%204.jpeg)
 
 # Snake Battle Arena
 
 (SnakeGame) Snake Battle Arena Game is a LAN multiplayer Snake with single‑player progression, bots, bonus food, and a modern HUD.
 
-## Quick Start
+## Quick Start with source code if needed to develop and fix
 1. Install Python 3.10+.
 2. Install dependencies:
    ```
